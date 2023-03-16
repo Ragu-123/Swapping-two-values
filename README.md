@@ -27,8 +27,8 @@ num2=int(input())
 temp=num1
 num1=num2
 num2=temp
-```
 print("Swapped values are:",num1,num2)
+```
 
 ![image](https://user-images.githubusercontent.com/113915622/225207849-279908fc-2b39-4324-a183-7d86a2ed1952.png)
 
